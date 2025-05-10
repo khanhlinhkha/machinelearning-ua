@@ -15,7 +15,7 @@ Build a machine learning model that maximizes **AUC** on a real-world dataset of
 - `final_version_models.py` – Script for training and evaluating multiple machine learning models.
 - `final_version_scoring.py` – Applies the trained model to the test set and outputs prediction scores for submission.
 
-> ⚠**Note:** Raw data files and the final report are **not included** in this repository due to confidentiality agreements. Code files do not contain any confidential information.
+> **Note:** Raw data files and the final report are **not included** in this repository due to confidentiality agreements. Code files do not contain any confidential information.
 
 ## Key Features
 
@@ -23,7 +23,7 @@ Build a machine learning model that maximizes **AUC** on a real-world dataset of
 - Comparison and evaluation of multiple models using **AUC**.
 - Business-relevant insights and explainable AI techniques.
 
-## 📜 License & Confidentiality
+## License & Confidentiality
 
 This project is subject to a non-disclosure agreement (NDA) with AXA Belgium. As such, **raw datasets and the final project report are excluded** to protect confidential information.
 
